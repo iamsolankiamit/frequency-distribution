@@ -1,0 +1,29 @@
+{
+  "name": "frequency-distribution",
+  "version": "1.0.0",
+  "description": "Given an array of numbers and range to split, returns frequency of numbers in that range",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsolankiamit/frequency-distribution.git"
+  },
+  "keywords": [
+    "frequency",
+    "distribution",
+    "range",
+    "number",
+    "array"
+  ],
+  "author": "iamsolankiamit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamsolankiamit/frequency-distribution/issues"
+  },
+  "homepage": "https://github.com/iamsolankiamit/frequency-distribution#readme",
+  "devDependencies": {
+    "ava": "1.0.0-beta.6"
+  }
+}
